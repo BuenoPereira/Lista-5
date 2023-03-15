@@ -1,0 +1,16 @@
+C:\Users\CJ3001725\Desktop\C#\atividade1\bin\Debug\atividade1.exe.config
+C:\Users\CJ3001725\Desktop\C#\atividade1\bin\Debug\atividade1.exe
+C:\Users\CJ3001725\Desktop\C#\atividade1\bin\Debug\atividade1.pdb
+C:\Users\CJ3001725\Desktop\C#\atividade1\obj\Debug\atividade1.csproj.AssemblyReference.cache
+C:\Users\CJ3001725\Desktop\C#\atividade1\obj\Debug\atividade1.csproj.SuggestedBindingRedirects.cache
+C:\Users\CJ3001725\Desktop\C#\atividade1\obj\Debug\atividade1.csproj.CoreCompileInputs.cache
+C:\Users\CJ3001725\Desktop\C#\atividade1\obj\Debug\atividade1.exe
+C:\Users\CJ3001725\Desktop\C#\atividade1\obj\Debug\atividade1.pdb
+C:\Users\Pereira\Desktop\C#\lista5\bin\Debug\atividade1.exe.config
+C:\Users\Pereira\Desktop\C#\lista5\bin\Debug\atividade1.exe
+C:\Users\Pereira\Desktop\C#\lista5\bin\Debug\atividade1.pdb
+C:\Users\Pereira\Desktop\C#\lista5\obj\Debug\atividade1.csproj.AssemblyReference.cache
+C:\Users\Pereira\Desktop\C#\lista5\obj\Debug\atividade1.csproj.SuggestedBindingRedirects.cache
+C:\Users\Pereira\Desktop\C#\lista5\obj\Debug\atividade1.csproj.CoreCompileInputs.cache
+C:\Users\Pereira\Desktop\C#\lista5\obj\Debug\atividade1.exe
+C:\Users\Pereira\Desktop\C#\lista5\obj\Debug\atividade1.pdb
